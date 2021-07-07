@@ -1,0 +1,19 @@
+.main_div{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+.center_div{
+  text-align: center;
+  width: 75vh;
+}
+.center_div h2{
+  background-color: tomato;
+  color: white;
+  padding: 5px 0px;
+  font-weight: bolder;
+}
+ol{
+  list-style: none;
+}
+

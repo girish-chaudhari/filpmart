@@ -1,0 +1,19 @@
+.todo {
+  display: flex;
+}
+.left {
+  margin-right: 5px;
+  padding: 5px 10px;
+  font-weight: bolder;
+  background-color: black;
+  color: red;
+
+  font-size: 1.2rem;
+}
+.left:hover {
+  background-color: red;
+  color: white;
+}
+.right {
+  width: 100%;
+}
